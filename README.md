@@ -9,7 +9,7 @@ This project demonstrates how **data-driven insights** can help healthcare organ
 ---
 
 ## 📊 Dataset
-The dataset (`ckd_dataset.csv`) contains patient demographics, medical history, and health metrics:
+The dataset (`EHR.csv`) contains patient demographics, medical history, and health metrics:
 - **Demographics**: Sex, AgeBaseline  
 - **Medical History**: Diabetes, Hypertension, Obesity, CHD, Vascular  
 - **Health Metrics**: Cholesterol, eGFR, Blood Pressure, BMI  
